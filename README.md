@@ -1,5 +1,5 @@
 # cloud-native-secuirty-knowledge-management
-# 云原生安全知识管理 Git 仓库
+# 云原生安全知识管理
 
 ## 介绍
 
